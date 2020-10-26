@@ -10,7 +10,7 @@ Welcome to test's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   hello
+   hello.md
 
 
 Indices and tables
