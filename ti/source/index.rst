@@ -11,6 +11,7 @@ Welcome to test's documentation!
    :caption: Contents:
 
    hello.md
+   sfd
 
 
 Indices and tables
