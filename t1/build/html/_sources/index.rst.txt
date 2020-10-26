@@ -10,6 +10,9 @@ Welcome to wzq's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   test
+   test2
+
 
 
 Indices and tables
