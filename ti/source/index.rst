@@ -10,7 +10,7 @@ Welcome to test's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   hello.md
+   hello
    sfd
 
 
